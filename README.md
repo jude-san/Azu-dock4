@@ -1,14 +1,5 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
 # Web Application Documentation 📄
-
+#### Link to [Live Demo](http://azu-frontend.s3-website.eu-west-2.amazonaws.com/)
 ## Overview
 
 This documentation provides an in-depth look into the web application developed using AWS services and modern frontend technologies. The application leverages AWS DynamoDB, API Gateway, Lambda functions, IAM roles, and DynamoDB triggers on the backend, while utilizing React with Vite on the frontend. Additionally, it incorporates a notification/email feature using Gmail SMTP.
